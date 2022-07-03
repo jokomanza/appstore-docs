@@ -1,5 +1,14 @@
 # appstore-docs
 
+## Download
+Untuk download installer menggunakan service <br>
+
+
+
+Untuk mengecek apakah ada update atau tidak, buat sebuah service yang selalu 
+mgecek semua apliaksi yang terinstall, dan jika ada update, membuat broadcast 
+tentang update yang ditemukan ke semua fragment yang membutuhkannya.
+
 ## In-app Update
 Buat library <br>
 
